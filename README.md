@@ -1,4 +1,4 @@
-# Pong
+# pong
 
 Clone of the classic arcade game *Pong* using C++.
 
